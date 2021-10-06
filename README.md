@@ -1,4 +1,4 @@
-### Hi I'm Seda 👋
+### Hi I'm Seda 
 
 
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/24/000000/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png"/> I’m currently working on algorithm problems.
