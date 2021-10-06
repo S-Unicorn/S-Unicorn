@@ -5,7 +5,7 @@
 
 <img src="https://img.icons8.com/external-ddara-lineal-color-ddara/24/000000/external-front-end-digital-marketing-ddara-lineal-color-ddara.png"/> I’m currently learning front end technologies.
 
-<img src="https://img.icons8.com/external-justicon-flat-justicon/24/000000/external-cat-christmas-avatar-justicon-flat-justicon.png"/> Fun fact: I'm a Cat geek!
+<img src="https://img.icons8.com/external-justicon-flat-justicon/24/000000/external-cat-christmas-avatar-justicon-flat-justicon.png"/> Fun fact: I'm a cat geek!
 
 Languages and Tools that I use:
 
