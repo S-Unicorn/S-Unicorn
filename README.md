@@ -3,13 +3,13 @@
 
 <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/24/000000/external-algorithm-data-science-and-cyber-security-flatart-icons-lineal-color-flatarticons.png"/> I’m currently working on algorithm problems.
 
-<img src="https://img.icons8.com/external-ddara-lineal-color-ddara/24/000000/external-front-end-digital-marketing-ddara-lineal-color-ddara.png"/> I’m currently learning front end technologies.
+<img src="https://img.icons8.com/external-ddara-lineal-color-ddara/24/000000/external-front-end-digital-marketing-ddara-lineal-color-ddara.png"/> I’m currently learning mobile programming with Flutter.
 
 <img src="https://img.icons8.com/external-justicon-flat-justicon/24/000000/external-cat-christmas-avatar-justicon-flat-justicon.png"/> Fun fact: I'm a cat geek!
 
 Languages and Tools that I use:
 
-<img src="https://img.icons8.com/nolan/48/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/nolan/48/sql.png"/><img src="https://img.icons8.com/nolan/48/java-eclipse.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/nolan/48/sql.png"/><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 
 How to reach me:
 
